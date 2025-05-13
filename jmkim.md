@@ -1,1 +1,1 @@
-"## name : ±Ë¡ÿπŒ / age : 19 / major : AIE" 
+## name : JunMin Kim / age : 19 / major : AIE 
