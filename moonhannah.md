@@ -1,1 +1,1 @@
-# 관심 분야: 자연어 처리
+# name: JuwonMonn, age: 20, hobby: crochet, video game
